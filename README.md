@@ -6,7 +6,7 @@
 - [cuCIM_Digital_Patology](https://developer.nvidia.com/blog/accelerating-digital-pathology-workflows-using-cucim-and-nvidia-gpudirect-storage/)
 
 
-NVIDIA Flare Release 2.2.1
+NVFLARE Release 2.2.1
 FL Simulator -- A lightweight simulator of a running NVFLARE FL deployment. It allows researchers to test and debug their application without provisioning a real project. The FL jobs run on a server and multiple clients in the same process but in a similar way to how it would run in a real deployment. Researchers can quickly build out new components and jobs that can then be directly used in a real production deployment.
 
 FLARE Dashboard NVFLARE's web UI. In its initial incarnation, the Flare Dashboard is used to help project setup, user registration, startup kits distribution and dynamic provisions. Dashboard setup and apis can be found here
