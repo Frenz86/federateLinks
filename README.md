@@ -4,6 +4,7 @@
 - [NVIDIAFlare_on_AWS](https://www.youtube.com/watch?v=4Yz_A0X04j0)
 - [FL_Prostate_Cancer_Histopathology_Paper](https://arxiv.org/pdf/2206.05617.pdf)
 - [MONAI_ZOO_MODEL](https://developer.nvidia.com/blog/open-source-healthcare-ai-innovation-continues-to-expand-with-monai-1-0/)
+- [Problema_armonizzazione_scannere_MRI](https://www.sciencedirect.com/science/article/abs/pii/S0730725X18306490)
 - [cuCIM_Digital_Patology](https://developer.nvidia.com/blog/accelerating-digital-pathology-workflows-using-cucim-and-nvidia-gpudirect-storage/)
 
 
